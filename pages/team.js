@@ -1,6 +1,9 @@
 
 import PropTypes from 'prop-types'
 
+import React from 'react';
+import ReactDOM from 'react-dom';
+
 import { i18n, withNamespaces } from '../i18n'
 
 import Navbar from '../components/navbar'
